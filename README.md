@@ -26,7 +26,7 @@ Accurate house price prediction is crucial for buyers, sellers, and real estate 
 ## 📊 Dataset
 
 - Source: [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-- Format: CSV with features like lot area, year built, number of bedrooms, etc.
+- Format: CSV with features like lot area, parkings, stories, number of bedrooms, etc.
 - Target: `SalePrice`
 
 ## 🛠️ Tech Stack
